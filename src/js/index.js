@@ -1,3 +1,3 @@
 import "../scss/styles.scss";
 
-console.log('Load Scripts Here Test');
+console.log('Load Scripts Here Testing');
