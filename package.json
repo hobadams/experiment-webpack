@@ -27,6 +27,7 @@
     "webpack-cli": "^3.3.10"
   },
   "dependencies": {
+    "postcss-discard-duplicates": "^4.0.2",
     "sass-resources-loader": "^2.0.1"
   }
 }
